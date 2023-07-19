@@ -1,0 +1,15 @@
+/Users/zachbuth/Projects/Dice Roller 2/Dice Roller 2/bin/Debug/net6.0/Dice Roller 2
+/Users/zachbuth/Projects/Dice Roller 2/Dice Roller 2/bin/Debug/net6.0/Dice Roller 2.deps.json
+/Users/zachbuth/Projects/Dice Roller 2/Dice Roller 2/bin/Debug/net6.0/Dice Roller 2.runtimeconfig.json
+/Users/zachbuth/Projects/Dice Roller 2/Dice Roller 2/bin/Debug/net6.0/Dice Roller 2.dll
+/Users/zachbuth/Projects/Dice Roller 2/Dice Roller 2/bin/Debug/net6.0/Dice Roller 2.pdb
+/Users/zachbuth/Projects/Dice Roller 2/Dice Roller 2/obj/Debug/net6.0/Dice Roller 2.csproj.AssemblyReference.cache
+/Users/zachbuth/Projects/Dice Roller 2/Dice Roller 2/obj/Debug/net6.0/Dice Roller 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zachbuth/Projects/Dice Roller 2/Dice Roller 2/obj/Debug/net6.0/Dice Roller 2.AssemblyInfoInputs.cache
+/Users/zachbuth/Projects/Dice Roller 2/Dice Roller 2/obj/Debug/net6.0/Dice Roller 2.AssemblyInfo.cs
+/Users/zachbuth/Projects/Dice Roller 2/Dice Roller 2/obj/Debug/net6.0/Dice Roller 2.csproj.CoreCompileInputs.cache
+/Users/zachbuth/Projects/Dice Roller 2/Dice Roller 2/obj/Debug/net6.0/Dice Roller 2.dll
+/Users/zachbuth/Projects/Dice Roller 2/Dice Roller 2/obj/Debug/net6.0/refint/Dice Roller 2.dll
+/Users/zachbuth/Projects/Dice Roller 2/Dice Roller 2/obj/Debug/net6.0/Dice Roller 2.pdb
+/Users/zachbuth/Projects/Dice Roller 2/Dice Roller 2/obj/Debug/net6.0/Dice Roller 2.genruntimeconfig.cache
+/Users/zachbuth/Projects/Dice Roller 2/Dice Roller 2/obj/Debug/net6.0/ref/Dice Roller 2.dll
